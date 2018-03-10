@@ -10,4 +10,6 @@ BunnyToken is managed by entrepreneurs and businessmen from the adult industry. 
 
 Token sale will take place between the 13th of March and 25th of May. The sale will take place through the official website BunnyToken.com and the token's price will rise by 1% every day that the sale is live. The company will burn any unsold tokens which would instantly increase the value of BunnyToken. Lots of industry websites have already pledged to use BunnyToken upon its launch.
 
-Smart contract is published in Ethereum blockchain. Address is 0x755eb14d2feff2939eb3026f5cad9d03775b9ff4: https://etherscan.io/token/0x755eb14d2feff2939eb3026f5cad9d03775b9ff4
+Smart contract is published in Ethereum blockchain. 
+
+Address is 0x755eb14d2feff2939eb3026f5cad9d03775b9ff4: https://etherscan.io/token/0x755eb14d2feff2939eb3026f5cad9d03775b9ff4
