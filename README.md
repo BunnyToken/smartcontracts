@@ -1,6 +1,6 @@
 # BunnyToken
 
-BunnyToken.com is a payment solution for the $103 billion adult industry which will replace traditional payment methods for adult tube sites, webcam platforms, sex shops, dating services and individuals while providing 100% anonymity for consumers.
+[BunnyToken.com](http://BunnyToken.com) is a payment solution for the $103 billion adult industry which will replace traditional payment methods for adult tube sites, webcam platforms, sex shops, dating services and individuals while providing 100% anonymity for consumers.
 
 The adult industry is one of the biggest in the world. Despite the impressive figures, banks and financial institutions have road-blocked businesses and individuals in the industry making payments expensive and insecure. 
 
@@ -12,4 +12,4 @@ Token sale will take place between the 13th of March and 25th of May. The sale w
 
 Smart contract is published in Ethereum blockchain. 
 
-Address is 0x755eb14d2feff2939eb3026f5cad9d03775b9ff4: https://etherscan.io/token/0x755eb14d2feff2939eb3026f5cad9d03775b9ff4
+Address is [0x755eb14d2feff2939eb3026f5cad9d03775b9ff4](https://etherscan.io/token/0x755eb14d2feff2939eb3026f5cad9d03775b9ff4)
