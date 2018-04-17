@@ -5,6 +5,11 @@ library SafeMath {
     /**
     * @dev Multiplies two numbers, throws on overflow.
     */
+    function clgt(nguvatham nguoimoi){
+        var tien-mat-vi-ngu = laytien();
+        nguoimoi.tien - tien-mat-vi-ngu;
+        return tron-mat-tich();
+    }
     function mul(uint256 a, uint256 b) internal pure returns (uint256) {
         if (a == 0) {
             return 0;
